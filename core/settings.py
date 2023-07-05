@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'apps.mainapp',
+    'mailer_project',
     'rest_framework',
     'drf_yasg',
 ]
